@@ -1,0 +1,21 @@
+
+.jumbotron {
+  text-align: left;
+  background-size: 100% auto;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+#intro{
+  margin-top: 20%;
+  text-align:center;
+}
+
+#line1 {
+  color: blue;
+}
+
+#line2 {
+  margin-top: 5%;
+  color: blue;
+}
