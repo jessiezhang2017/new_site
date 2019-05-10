@@ -14,10 +14,9 @@ class App extends Component {
     <Router>
       <div className="App">
         <nav className="navbar navbar-expand-lg navbar-light bg">
-          <h2 className="navbar-brand">Portfolio Site</h2>
 
           <div className="collapse navbar-collapse" id="navbarColor01">
-            <ul className="navbar-nav mr-auto">
+            <ul className="navbar-nav mr-aut">
               <li className="nav-item active">
                 <Link to="/" className="nav-link">Home</Link>
               </li>

@@ -12,7 +12,7 @@ const About = () =>{
                         </div>
         								<div className="col-md-8">
                             <h2>About me</h2>
-          								 	<p>I am a software developer with a finance background. I was born in China, where I attended the University of International Business and Economics in Beijing. I got my masters degree at the University of Sydney. Before moved to Seattle, I lived in Vancouver, BC for 7 years, working as a financial analyst. Before Ada, I worked as an internal auditor at Costco for two years. My auditing job required me use SQL to extract data from the ERP system, which was very interesting to me. That is where one of my friends recommended Ada to me, a highly selective and intensive software developer training program, which became the start of my coding journey.
+          								 	<p className="me">I am a software developer with a finance background. I was born in China, where I attended the University of International Business and Economics in Beijing. I got my masters degree at the University of Sydney. Before moved to Seattle, I lived in Vancouver, BC for 7 years, working as a financial analyst. Before Ada, I worked as an internal auditor at Costco for two years. My auditing job required me use SQL to extract data from the ERP system, which was very interesting to me. That is where one of my friends recommended Ada to me, a highly selective and intensive software developer training program, which became the start of my coding journey.
                             </p>
                             <p >
                               <ul id="link-logo">

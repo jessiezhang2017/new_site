@@ -1,1 +1,14 @@
+.portfolio_img {
+  width: 200px;
+  height: 100px;
+}
 
+.inner_section {
+  margin-top:  2%;
+  text-align: center;
+}
+
+.portfolio_title{
+  text-align: center;
+
+}

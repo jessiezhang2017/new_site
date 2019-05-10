@@ -1,1 +1,27 @@
 
+#about1 {
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+}
+
+#link-logo{
+  display: flex;
+  flex-direction: row;
+  margin-top: 10%;
+}
+
+.l-logo {
+  width: 30px;
+  height: 30px;
+  padding: 20%;
+}
+
+.me {
+  margin-top: 10%;
+  font-size: 1.2em;
+}
+
+.img-responsive {
+  margin-top: 10%;
+}
