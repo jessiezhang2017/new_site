@@ -10,11 +10,10 @@ class App extends Component {
 
   render() {
 
-
   return (
     <Router>
       <div className="App">
-        <nav className="navbar navbar-expand-lg navbar-dark bg">
+        <nav className="navbar navbar-expand-lg navbar-light bg">
           <h2 className="navbar-brand">Portfolio Site</h2>
 
           <div className="collapse navbar-collapse" id="navbarColor01">

@@ -54,3 +54,10 @@ ul {
  text-decoration: none;
  color: white;
 }
+
+.jumbotron {
+  text-align: left;
+  background-size: 100% auto;
+  margin-left:  3%;
+  margin-right:  3%;
+}
