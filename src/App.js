@@ -30,7 +30,7 @@ class App extends Component {
             </div>
           </nav>
 
-        <Route path="/" exact component={Home} />
+        <Route path={process.env.PUBLIC_URL+"/"} exact component={Home} />
         <Route path="/about/" render={()=>
            <
             About
