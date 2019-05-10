@@ -2,7 +2,7 @@
   "name": "my-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jessiezhang2017.github.io/new_site/",
+  "homepage": "https://jessiezhang2017.github.io/new_site",
   "dependencies": {
     "bootstrap": "^4.2.1",
     "bootswatch": "^4.2.1",

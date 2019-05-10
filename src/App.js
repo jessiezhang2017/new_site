@@ -18,7 +18,7 @@ class App extends Component {
           <div className="collapse navbar-collapse" id="navbarColor01">
             <ul className="navbar-nav mr-aut">
               <li className="nav-item active">
-                <Link to="/" className="nav-link">Home</Link>
+                <Link to={process.env.PUBLIC_URL + '/'} className="nav-link">Home</Link>
               </li>
               <li className="nav-item">
                 <Link to="/about" className="nav-link">About</Link>
